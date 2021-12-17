@@ -3,4 +3,4 @@ project(MTE121Assignments)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(MTE121Assignments areaCalculators.cpp)
+add_executable(MTE121Assignments areaCalculators.cpp nauticalMiles.cpp ageCalculator.cpp minChangeCalc.cpp highestMonthlyTemp.cpp)
